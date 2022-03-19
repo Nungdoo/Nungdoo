@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Nungdoo
+- 👀 I’m QA

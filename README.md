@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Nungdoo
-- 👀 I’m QA
+- 👋 안녕하세요, 김영주입니다 👀
+- https://nungdoo.tistory.com/
